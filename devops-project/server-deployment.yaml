@@ -12,7 +12,7 @@ spec:
       labels:
         component: server
       annotations:
-        image-tag: fa0e849
+        image-tag: 65ef940
     spec:
       containers:
         - name: server 
