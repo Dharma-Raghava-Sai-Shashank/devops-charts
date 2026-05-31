@@ -12,7 +12,7 @@ spec:
       labels:
         component: worker
       annotations:
-        image-tag: "a1b2c3d"
+        image-tag: 5a1dba5
     spec:
       containers:
         - name: worker 
